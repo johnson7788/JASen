@@ -294,7 +294,7 @@ void SortVocab() {
   vocab = (struct vocab_word *) realloc(vocab, (vocab_size + 1) * sizeof(struct vocab_word));
 }
 
-// Reduces the vocabulary by removing infrequent tokens
+// 通过删除不经常使用的标签来减少单词表量
 void ReduceVocab() {
   int a, b = 0;
   unsigned int hash;

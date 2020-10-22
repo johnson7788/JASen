@@ -1,0 +1,32 @@
+Category (good,support):
+100gb_of_google_drive international accidental_damage_warranty coverage service prepaid warranty support concierge accidental_damage 
+Category (good,os):
+microsoft_windows classic_windows macos os unix mac_os osx gentoo windows operating 
+Category (good,display):
+16x9 2560x1440 inch_lcd 2560 brightview resolution display 900p 1920x1080p inch_widescreen 
+Category (good,battery):
+lasts_long charges_quickly lasts lasting recharge charge battery 6hrs power_save_mode 10hrs 
+Category (good,company):
+sleekbooks benz reputable reasonable_price toshiba 15n hp fruit cosmetics company 
+Category (good,mouse):
+multi_gesture multi_finger_gestures clicker customizable finger pad mouse tap click gesture 
+Category (good,software):
+msoffice office_programs slideshows light_photo_editing office_products edit_photos plugins document_management photo_editor address_book 
+Category (good,keyboard):
+chiclet_style spacing chiclet_keys tactile_feedback keys nicely_spaced spaced touch_type touch_typing 'chicklet' 
+Category (bad,support):
+blamed deny denied denial acknowledge refusal forbid denying recourse blame 
+Category (bad,os):
+windows_95 os windows_vista win_xp boot_camp operating mac_osx mac_os windows_xp vista 
+Category (bad,display):
+lcd vivid direct_sunlight pixels resolution colors display viewing_angles image_quality glossy_display 
+Category (bad,battery):
+unplugged ac_power drain realistically power_save_mode high_performance fully_charge charge brightness_turned battery 
+Category (bad,company):
+vaios averatec quality_control t_series toshiba 14z t135 hp loyal_customer products 
+Category (bad,mouse):
+touch_pad separate_buttons touchpad overly_sensitive pad mouse tap left_click tap_to_click tapping 
+Category (bad,software):
+final_cut adobe_photoshop suite final_cut_pro programs cs4 google_earth adobe google_toolbar adobe_creative_suite 
+Category (bad,keyboard):
+layout shallow cramped enter_key keys arrow delete_key touch_typist large_hands key_travel 

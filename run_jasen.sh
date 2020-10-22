@@ -2,16 +2,16 @@
 # dataset=restaurant
 dataset=laptop
 
-# text file name; one document per line
+# 训练数据文本，一个文档一行
 text_file=train.txt
 
-# keyword file
+#关键字文本，topic_file1是情感，topic_file2是aspect
 topic_file1=senti_w_kw.txt
 topic_file2=aspect_w_kw.txt
 
 topic=mix
 
-# load pretrained word2vec embedding
+# 加载 pretrained word2vec embedding
 pretrain_emb=word2vec_100.txt
 
 if [ ! -f "$pretrain_emb" ] && [ -f "word2vec_100.zip" ]; then
