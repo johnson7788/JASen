@@ -1,32 +1,32 @@
 Category (good,support):
-100gb_of_google_drive international accidental_damage_warranty coverage service prepaid warranty support concierge accidental_damage 
+09143yu 100gb_of_google_drive mobile_broadband accidental_damage_warranty service warranty coverage support microsoft_windows external_monitors 
 Category (good,os):
-microsoft_windows classic_windows macos os unix mac_os osx gentoo windows operating 
+microsoft_windows user_friendly macos os unix operating mac_os mac_osx dual_booting windows 
 Category (good,display):
-16x9 2560x1440 inch_lcd 2560 brightview resolution display 900p 1920x1080p inch_widescreen 
+bright vivid_colors color_saturation crisp resolution display colorful vivid vibrant inch_lcd 
 Category (good,battery):
-lasts_long charges_quickly lasts lasting recharge charge battery 6hrs power_save_mode 10hrs 
+lasts_long charges_quickly lasting lasts battery charge recharge power_save_mode life cell 
 Category (good,company):
-sleekbooks benz reputable reasonable_price toshiba 15n hp fruit cosmetics company 
+spddys benz reputable reasonable_price toshiba hp s3064 company bmw pavilion 
 Category (good,mouse):
-multi_gesture multi_finger_gestures clicker customizable finger pad mouse tap click gesture 
+multi_finger_gestures multi_touch clicker pad finger mouse track click tap gesture 
 Category (good,software):
-msoffice office_programs slideshows light_photo_editing office_products edit_photos plugins document_management photo_editor address_book 
+address_book slideshows msoffice bookmarking flickr textpad plugins softwear iworks pixlr 
 Category (good,keyboard):
-chiclet_style spacing chiclet_keys tactile_feedback keys nicely_spaced spaced touch_type touch_typing 'chicklet' 
+separate_numeric chiclet_keys keys spaced spacing numeric_keypad nicely_spaced number_keys touch_typing 'chicklet' 
 Category (bad,support):
-blamed deny denied denial acknowledge refusal forbid denying recourse blame 
+denial blamed denied deny blame arguing apologized misled publicly contact_amazon 
 Category (bad,os):
-windows_95 os windows_vista win_xp boot_camp operating mac_osx mac_os windows_xp vista 
+windows_95 windows_vista xp operating installing_windows os vista windows_2000 mac_osx windows_xp 
 Category (bad,display):
-lcd vivid direct_sunlight pixels resolution colors display viewing_angles image_quality glossy_display 
+lcd 1440 pixels 1280 resolution display 1080 displays glossy_display 1366 
 Category (bad,battery):
-unplugged ac_power drain realistically power_save_mode high_performance fully_charge charge brightness_turned battery 
+fully_charge juice drain unplugged power_save_mode high_performance charge battery drained realistically 
 Category (bad,company):
-vaios averatec quality_control t_series toshiba 14z t135 hp loyal_customer products 
+negative_review loyal_customer hewlett_packard quality_control toshiba hp t135 t_series 14z company 
 Category (bad,mouse):
-touch_pad separate_buttons touchpad overly_sensitive pad mouse tap left_click tap_to_click tapping 
+touchpad overly_sensitive touch_pad tapping pad pointer mouse gesture track jumpy 
 Category (bad,software):
-final_cut adobe_photoshop suite final_cut_pro programs cs4 google_earth adobe google_toolbar adobe_creative_suite 
+final_cut adobe_photoshop cs4 final_cut_pro adobe windows_movie_maker adobe_creative_suite wmp premiere_pro softwares 
 Category (bad,keyboard):
-layout shallow cramped enter_key keys arrow delete_key touch_typist large_hands key_travel 
+layout cramped enter_key keys shallow touch_type arrow keys_feel spaced touch_typing 

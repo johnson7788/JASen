@@ -1,16 +1,16 @@
 Category (support):
-prepaid cost4 prepaid_shipping replacement pixels3 insured authorize intelisol csr overnighted 
+insured cost4 authorize intelisol pixels3 warrantymust prepaid_shipping retailer4 prepaid accidental_damage 
 Category (os):
-roots dual_boot_windows operating mac_os unix incompatibilities osx linux mac_osx microsoft_windows_xp 
+incompatibilities operating mac_os unix osx roots dual_boot_windows linux operating_systems vmfusion 
 Category (display):
-16x9 141 angels lcd displays colors contrasty 900p 1600x900p inch_lcd 
+angels 16x9 lcd colors contrasty bright displays 1600x900p upscaled presenting 
 Category (battery):
-discharged unplugged recharge lasts juice discharges fully_charge power_save_mode hours battery_life 
+discharged discharges unplugged recharge lasts juice mintues depleted h04us 4000mah 
 Category (company):
-merger fruit u410 declining ford grave counters gt780r mac_mall eeepcs 
+mac_mall packard merger ford s3064 t135 zv5000 l855 declining strolling 
 Category (mouse):
-double_tap tap finger scroll touchpad click left_click clicker tapping confuses 
+clicker finger tap touchpad scroll left_click tapping touch_pad click hypersensitive 
 Category (software):
-trial' garmin vb '60 picassa statistical wordperfect project_management inkscape excell 
+garmin vb trial' mahjong picassa project_management inkscape '60 eudora wordperfect 
 Category (keyboard):
-'chicklet' cramps alphabet stroke layout keypad qwerty chiclets mistype number_pad 
+'chicklet' layout number_pad keypad spaced qwerty arrow cramps chiclets spacing 
