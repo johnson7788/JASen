@@ -18,7 +18,6 @@ import torch.nn.functional as F
 from collections import defaultdict
 from math import sqrt
 
-
 def get_marginal_temb(vec_file):
     print(vec_file)
     f = open(vec_file, 'r')
@@ -99,7 +98,6 @@ def generate_batch(batch):
     text = torch.cat(text)
 
     return text, label, gt1, gt2
-
 
 def train_func(sub_train_, model, mode, optimizer):
 
